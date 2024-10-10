@@ -7,7 +7,7 @@ FUJINO Aoba (藤野 蒼羽)
    Institute of Science Tokyo
    Tokyo 152-8550, Japan
 
-   Email: fuijno [at] arch.cs.titech.ac.jp
+   Email: fujino [at] arch.cs.titech.ac.jp
    GitHub: https://github.com/0d41146
 
 Biography
